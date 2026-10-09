@@ -1,6 +1,6 @@
 # blum
 
-архивны 2024 года: два userscript для автоматизации мини-игры blum в telegram mini apps.
+архив 2024 года: два userscript для автоматизации мини-игры blum в telegram mini apps.
 
 - `blumforbrowser.user.js` — версия для браузерного userscript-менеджера;
 - `blumforzennoposter.user.js` — расширенная версия с дополнительной автоматизацией.
